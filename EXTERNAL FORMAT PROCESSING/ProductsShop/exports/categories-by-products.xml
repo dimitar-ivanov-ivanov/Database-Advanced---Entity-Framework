@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category name="Drugs">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+  <category name="Adult">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+  <category name="Electronics">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+  <category name="Garden">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+  <category name="Weapons">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+  <category name="For Children">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+  <category name="Sports">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+  <category name="Fashion">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+  <category name="Autoparts">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+  <category name="Business">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+  <category name="Other">
+    <products-count>200</products-count>
+    <average-price>770.265850</average-price>
+    <total-revenue>154053.17</total-revenue>
+  </category>
+</categories>
